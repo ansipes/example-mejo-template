@@ -4,4 +4,4 @@ jobs:
   one:
     runs-on: ubuntu-latest
     steps:
-      - run: echo ${{ env.GITHUB_REPOSITORY }}
+      - run: echo "This is $GITHUB_REPOSITORY"
