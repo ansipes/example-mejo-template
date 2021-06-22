@@ -1,0 +1,4 @@
+- name: log-user-repo
+  on: [push]
+  run: echo ${{ env.GITHUB_REPOSITORY }}
+  shell: bash
