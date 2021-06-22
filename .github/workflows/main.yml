@@ -1,4 +1,8 @@
-- name: log-user-repo
-  on: [push]
-  run: echo ${{ env.GITHUB_REPOSITORY }}
-  shell: bash
+name: log-user-repo
+on: [push]
+jobs:
+  one:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo ${{ env.GITHUB_REPOSITORY }}
+      - shell: bash
