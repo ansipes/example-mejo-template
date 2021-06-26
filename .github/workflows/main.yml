@@ -1,7 +1,14 @@
 name: log-user-repo
 on: [push]
 jobs:
-  one:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - run: echo "This is $GITHUB_REPOSITORY"
+      
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@4.1.4
+        with:
+          branch: gh-pages
+          folder: src
+     
