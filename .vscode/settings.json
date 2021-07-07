@@ -1,0 +1,10 @@
+{
+  "files.autoSave": "onFocusChange",
+  "git.enableSmartCommit": true,
+  "git.postCommitCommand": "sync",
+  "editor.formatOnSave": true,
+  "files.exclude": {
+    "**/.github": true,
+    "**/.vscode": true
+  }
+}
