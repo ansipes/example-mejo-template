@@ -13,13 +13,13 @@ This template provides an improved web development experience when using Visual 
    - Search for `@recommended`
    - Under `WORKSPACE RECOMMENDATIONS` click `Install Workspace Extension Recommendations` (cloud with a down arrow)
 
-### 🌐 Preview
+### 👁 Preview
 
 Click the "Go Live" button in the bottom right of Visual Studio Code. This will open [http://127.0.0.1:5500/](http://127.0.0.1:5500/) in your browser.
 
 Everything in your `src` folder will be served just like it is on a real web server.
 
-### 🎉 Publish
+### 🚀 Publish
 
 As long as you have enabled GitHub Pages, your project should be published at [https://{{ USERNAME }}.github.io/{{ REPOSITORY }}](#).
 
