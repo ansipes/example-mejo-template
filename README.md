@@ -1,4 +1,4 @@
-[Website](#) / [Instructions](./INSTRUCTIONS.md)
+[Website](#) | [Instructions](./INSTRUCTIONS.md)
 
 # Project Name
 
