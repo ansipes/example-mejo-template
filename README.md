@@ -57,7 +57,8 @@ This template includes recommended extensions that improve testing and formattin
 
 #### 🪄 Prettier
 
-- Format Code with Opinionated Rules
+- Format Code with Opinionated Rules  
+![Prettier extension is used to format messy HTML, CSS, and JavaScript files.](https://mejo187.com/images/web-repo-template/prettier.gif)
 
 #### 🔎 HTMLHint
 
