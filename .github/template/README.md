@@ -4,7 +4,7 @@ This template provides an improved web development experience when using Visual 
 
 ## How to Use
 
-### 🛠 Setup
+### Setup 🛠
 
 1. Click [Use this template](https://github.com/ansipes/mejo-web-template) and create the repository from template
 2. Under `Settings` -> `Pages` pick `gh-pages` as the branch and `/ (root)` as the folder, the click save
@@ -13,13 +13,13 @@ This template provides an improved web development experience when using Visual 
    - Search for `@recommended`
    - Under `WORKSPACE RECOMMENDATIONS` click `Install Workspace Extension Recommendations` (cloud with a down arrow)
 
-### 👁 Preview
+### Preview 👁
 
 Click the "Go Live" button in the bottom right of Visual Studio Code. This will open [http://127.0.0.1:5500/](http://127.0.0.1:5500/) in your browser.
 
 Everything in your `src` folder will be served just like it is on a real web server.
 
-### 🚀 Publish
+### Publish 🚀
 
 As long as you have enabled GitHub Pages, your project should be published at [https://{{ USERNAME }}.github.io/{{ REPOSITORY }}](#).
 
@@ -27,7 +27,7 @@ Replace `{{ USERNAME }}` with your GitHub username. Replace `{{ REPOSITORY }}` w
 
 ## What's Included
 
-### ⚙️ Settings
+### Settings ⚙️
 
 This template includes settings that improve writing and version control in Visual Studio Code.
 
@@ -46,7 +46,7 @@ These settings help simplify sending your code to GitHub by reducing three steps
 - Stages Changes Automatically
 - Pushes After Commit
 
-### 🔌 Extensions
+### Extensions 🔌
 
 This template includes recommended extensions that improve testing and formatting in Visual Studio Code.
 
@@ -65,7 +65,7 @@ https://user-images.githubusercontent.com/25012869/125014266-5cd3aa80-e03b-11eb-
 
 - Analyzes HTML for Problems
 
-### 🪄 Workflows
+### Workflows 🪄
 
 This template includes a workflow that improves deployment via GitHub Pages.
 
