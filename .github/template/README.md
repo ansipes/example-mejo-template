@@ -69,6 +69,6 @@ https://user-images.githubusercontent.com/25012869/125014266-5cd3aa80-e03b-11eb-
 
 This template includes a workflow that improves deployment on GitHub.
 
-### 🚀 Deploy
+### Deploy
 
 - Copy `src` to the `gh-pages` branch
