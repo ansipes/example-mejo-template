@@ -2,6 +2,8 @@
 
 This template provides an improved web development experience when using Visual Studio Code and GitHub. It includes:
 
+- [index.html](../../src/index.html) in a [src](../../src) directory
+- [README.md](../../README.md)
 - [settings](../../.vscode/settings.json)
 - [extension recommendations](../../.vscode/extensions.json)
 - [GitHub workflow](../workflows/main.yml)
