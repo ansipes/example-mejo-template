@@ -1,4 +1,4 @@
-[Visit Website](#) || [How to Use](./ABOUT.md)
+[Visit Website](#) | [How to Use](./ABOUT.md)
 
 # Project Name
 
