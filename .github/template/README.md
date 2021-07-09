@@ -2,11 +2,7 @@
 
 This template provides an improved web development experience when using Visual Studio Code and GitHub. It includes:
 
-- [index.html](../../src/index.html) in a [src](../../src) directory
-- [README.md](../../README.md)
-- [settings](../../.vscode/settings.json)
-- [extension recommendations](../../.vscode/extensions.json)
-- [GitHub workflow](../workflows/main.yml)
+- [settings]
 
 ## How to Use
 
@@ -34,7 +30,31 @@ As long as you have enabled GitHub Pages, your project should be published at [h
 
 ## What's Included
 
-### Settings ⚙️
+### Files and Folders 📄
+
+This template includes files and folders that help you get started with a basic web repository.
+
+#### [README.md](../../README.md)
+
+The README.md file displays automatically when someone visits your repository page on GitHub.com. It is an opporunity to summarize your project to visitors and/or give instructions on how they can run in locally on their own computer.
+
+#### [src](../../src)
+
+It is common practice to put any source code in a `src` folder. Everything you write that isn't a configuration file should go in the `src` folder:
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- images
+- videos
+- etc.
+
+#### [index.html](../../src/index.html)
+
+Every static website will need at least one HTML file to function. Given this, an `index.html` file is included in the root of your `src` folder. This also ensures that your `Go Live` button for [Live Server](#Live-Server) works the first time you open your project.
+
+### [Settings ⚙️](../../.vscode/extensions.json)
 
 This template includes settings that improve writing and version control in Visual Studio Code.
 
@@ -53,7 +73,7 @@ These settings help simplify sending your code to GitHub by reducing four steps 
 - [Stages Changes Automatically](https://github.com/ansipes/mejo-web-template/blob/812550fd1d1b7951cac2ded8ef2e9589e1ffe6b0/.vscode/settings.json#L16)
 - [Syncs After Commit](https://github.com/ansipes/mejo-web-template/blob/812550fd1d1b7951cac2ded8ef2e9589e1ffe6b0/.vscode/settings.json#L17)
 
-### Extensions 🔌
+### [Extensions 🔌](../../.vscode/extensions.json)
 
 This template includes recommended extensions that improve testing and formatting in Visual Studio Code.
 
@@ -72,7 +92,7 @@ https://user-images.githubusercontent.com/25012869/125014266-5cd3aa80-e03b-11eb-
 
 - Analyzes HTML for Problems
 
-### Workflows 🪄
+### [Workflows 🪄](../workflows)
 
 This template includes a workflow that improves deployment via GitHub Pages.
 
