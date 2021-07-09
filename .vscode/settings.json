@@ -1,12 +1,6 @@
 {
   "files.autoSave": "onFocusChange",
-  "git.enableSmartCommit": true,
-  "git.postCommitCommand": "sync",
   "editor.formatOnSave": true,
-  "files.exclude": {
-    "**/.github": true,
-    "**/.vscode": true
-  },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -18,5 +12,12 @@
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.autoClosingBrackets": "always"
-  }
+  },
+  "git.enableSmartCommit": true,
+  "git.postCommitCommand": "sync",
+  "files.exclude": {
+    "**/.github": true,
+    "**/.vscode": true
+  },
+  "liveServer.settings.root": "/src"
 }
