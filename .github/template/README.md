@@ -50,18 +50,18 @@ These settings help simplify sending your code to GitHub by reducing three steps
 
 This template includes recommended extensions that improve testing and formatting in Visual Studio Code.
 
-#### Live Server
+#### [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 - Serve the `src` directory on [localhost:5500](localhost:5500)
 - Refresh Browser on Save
 
-#### Prettier
+#### [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 - Format Code with Opinionated Rules
 
 https://user-images.githubusercontent.com/25012869/125014266-5cd3aa80-e03b-11eb-8a5c-80708376b80a.mp4
 
-#### HTMLHint
+#### [HTMLHint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)
 
 - Analyze HTML for Problems
 
@@ -69,6 +69,6 @@ https://user-images.githubusercontent.com/25012869/125014266-5cd3aa80-e03b-11eb-
 
 This template includes a workflow that improves deployment on GitHub.
 
-### Deploy
+### [Deploy](../workflows/main.yml)
 
 - Copy `src` to the `gh-pages` branch
