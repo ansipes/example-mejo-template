@@ -1,4 +1,4 @@
-# Instructions
+# Web Repository Template
 
 This template provides an improved web development experience when using Visual Studio Code and GitHub. It includes configurations for settings, extensions, and a GitHub Pages workflow.
 
