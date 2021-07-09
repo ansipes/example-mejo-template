@@ -23,7 +23,8 @@ Everything in your `src` folder will be served just like it is on a real web ser
 
 As long as you have enabled GitHub Pages, your project should be published at [https://username.github.io/repository](#).
 
-Replace `username` with your GitHub username. Replace `repository` with your repository name.
+- Replace `username` with your GitHub username
+- Replace `repository` with your repository name
 
 ## What's Included
 
