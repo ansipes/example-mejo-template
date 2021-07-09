@@ -58,7 +58,7 @@ This template includes recommended extensions that improve testing and formattin
 #### 🪄 Prettier
 
 - Format Code with Opinionated Rules  
-https://mejo187.com/images/web-repo-template/prettier.mp4
+https://user-images.githubusercontent.com/25012869/125014266-5cd3aa80-e03b-11eb-8a5c-80708376b80a.mp4
 
 #### 🔎 HTMLHint
 
