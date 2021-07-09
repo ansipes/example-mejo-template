@@ -8,10 +8,12 @@ This template provides an improved web development experience when using Visual 
 
 1. Click [Use this template](https://github.com/ansipes/mejo-web-template) and create the repository from template
 2. Under `Settings` -> `Pages` pick `gh-pages` as the branch and `/ (root)` as the folder, the click save
-3. Clone your repository and open in Visual Studio Code
-4. Open the Extensions panel in Visual Studio Code
+3. Clone your repository via Visual Studio Code and open in new window
+4. Toggle Extensions panel
+   - Skip if you already have recommended extensions
    - Search for `@recommended`
-   - Under `WORKSPACE RECOMMENDATIONS` click `Install Workspace Extension Recommendations` (cloud with a down arrow)
+   - Look for `WORKSPACE RECOMMENDATIONS`
+   - Click `Install Workspace Extension Recommendations` (cloud ☁️ with a down arrow ↓)
 
 ### Preview 👁
 
@@ -75,18 +77,18 @@ These settings help simplify sending your code to GitHub by reducing four steps 
 
 ### [Extensions 🔌](../../.vscode/extensions.json)
 
-This template includes recommended extensions that improve testing and formatting in Visual Studio Code.
-
-#### [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-
-- Serves the `src` directory on [localhost:5500](localhost:5500)
-- Refreshes Browser on Save
+This template includes recommended extensions that improve formatting, testing, and troubleshooting in Visual Studio Code.
 
 #### [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 - Formats Code with Opinionated Rules
 
 https://user-images.githubusercontent.com/25012869/125014266-5cd3aa80-e03b-11eb-8a5c-80708376b80a.mp4
+
+#### [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+- Serves the `src` directory on [localhost:5500](localhost:5500)
+- Refreshes Browser on Save
 
 #### [HTMLHint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)
 
