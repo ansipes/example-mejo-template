@@ -35,16 +35,16 @@ This template includes settings that improve writing and version control in Visu
 
 These settings solve common problems like unsaved work, poorly formatted code, and missing brackets.
 
-- Saves on Focus Change
-- Formats Code on Save
-- Closes Brackets Automatically
+- [Saves on Focus Change](https://github.com/ansipes/mejo-web-template/blob/812550fd1d1b7951cac2ded8ef2e9589e1ffe6b0/.vscode/settings.json#L2)
+- [Formats Code on Save](https://github.com/ansipes/mejo-web-template/blob/812550fd1d1b7951cac2ded8ef2e9589e1ffe6b0/.vscode/settings.json#L3)
+- [Closes Brackets Automatically](https://github.com/ansipes/mejo-web-template/blob/812550fd1d1b7951cac2ded8ef2e9589e1ffe6b0/.vscode/settings.json#L10)
 
 #### Version Control
 
-These settings help simplify sending your code to GitHub by reducing three steps (add, commit, push) to a single step. Simply type a commit message in the Source Control view and click the checkmark.
+These settings help simplify sending your code to GitHub by reducing four steps (add, commit, push, pull) to a single step. Simply type a commit message in the Source Control view and click the checkmark.
 
-- Stages Changes Automatically
-- Pushes After Commit
+- [Stages Changes Automatically](https://github.com/ansipes/mejo-web-template/blob/812550fd1d1b7951cac2ded8ef2e9589e1ffe6b0/.vscode/settings.json#L16)
+- [Syncs After Commit](https://github.com/ansipes/mejo-web-template/blob/812550fd1d1b7951cac2ded8ef2e9589e1ffe6b0/.vscode/settings.json#L17)
 
 ### Extensions 🔌
 
