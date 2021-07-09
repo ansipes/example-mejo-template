@@ -36,6 +36,14 @@ As long as you have enabled GitHub Pages, your project should be published at [h
 
 It is common practice to put any source code in a `src` folder. Everything you add to your project that isn't a configuration file should go in the `src` folder.
 
+#### [.vscode](../../.vscode)
+
+This folder stores [settings](#Settings) and [extension recommendations](#Extentions) for Visual Studio Code. This template hides it in the file explorer to prevent accidental modification or deletion. You can unhide it in Visual Studio Code with the `Files: Exclude` setting.
+
+#### [.github](../../.vscode)
+
+This folder stores GitHub [workflows](#Workflows) and this [README.md](./). This template hides it in the file explorer to prevent accidental modification or deletion. You can unhide it in Visual Studio Code with the `Files: Exclude` setting.
+
 ### Files 📄
 
 This template includes files and folders that help you get started with a basic web repository.
