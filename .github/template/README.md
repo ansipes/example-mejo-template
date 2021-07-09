@@ -100,6 +100,6 @@ https://user-images.githubusercontent.com/25012869/125108681-5c292b80-e0b0-11eb-
 
 This template includes a workflow that improves deployment via GitHub Pages.
 
-#### [Continuous Delivery](../workflows/main.yml) 🚚
+#### [Continuous Delivery](../workflows/cd.yml) 🚚
 
 - Copies the [src](../../src) folder to the [gh-pages](../../../../tree/gh-pages) branch
