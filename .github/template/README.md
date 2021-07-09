@@ -32,7 +32,7 @@ As long as you have enabled GitHub Pages, your project should be published at [h
 
 #### [src](../../src)
 
-It is common practice to put any source code in a `src` folder. Everything you write that isn't a configuration file should go in the `src` folder:
+It is common practice to put any source code in a `src` folder. Everything you add to your project that isn't a configuration file should go in the `src` folder:
 
 - HTML
 - CSS
