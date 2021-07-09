@@ -38,11 +38,11 @@ It is common practice to put any source code in a `src` folder. Everything you a
 
 #### [.vscode](../../.vscode)
 
-This folder stores [settings](#Settings) and [extension recommendations](#Extentions) for Visual Studio Code. This template hides it in the file explorer to prevent accidental modification or deletion. You can unhide it in Visual Studio Code with the `Files: Exclude` setting.
+This folder stores [settings](../../.vscode/extensions.json) and [extension recommendations](../../.vscode/extensions.json) for Visual Studio Code. This template hides the `.vscode` folder in the explorer to prevent accidental modification or deletion. You can unhide it in Visual Studio Code with the `Files: Exclude` setting.
 
-#### [.github](../../.vscode)
+#### [.github](../../.github)
 
-This folder stores GitHub [workflows](#Workflows) and this [README.md](./). This template hides it in the file explorer to prevent accidental modification or deletion. You can unhide it in Visual Studio Code with the `Files: Exclude` setting.
+This folder stores GitHub [workflows](../../.github/workflows) and this [README.md](./). This template hides the `.github` folder in the explorer to prevent accidental modification or deletion. You can unhide it in Visual Studio Code with the `Files: Exclude` setting.
 
 ### Files 📄
 
