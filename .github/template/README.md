@@ -34,15 +34,7 @@ As long as you have enabled GitHub Pages, your project should be published at [h
 
 #### [src](../../src)
 
-It is common practice to put any source code in a `src` folder. Everything you add to your project that isn't a configuration file should go in the `src` folder:
-
-- HTML
-- CSS
-- JavaScript
-- PHP
-- images
-- videos
-- etc.
+It is common practice to put any source code in a `src` folder. Everything you add to your project that isn't a configuration file should go in the `src` folder.
 
 ### Files 📄
 
@@ -56,7 +48,7 @@ The README.md file displays automatically when someone visits your repository pa
 
 Every static website will need at least one HTML file to function. Given this, an `index.html` file is included in the root of your `src` folder. This also ensures that your `Go Live` button for [Live Server](#Live-Server) works the first time you open your project.
 
-### [Settings ⚙️](../../.vscode/extensions.json)
+### [Settings](../../.vscode/extensions.json) ⚙️
 
 This template includes settings that improve writing and version control in Visual Studio Code.
 
@@ -75,7 +67,7 @@ These settings help simplify sending your code to GitHub by reducing four steps 
 - [Stages Changes Automatically](https://github.com/ansipes/mejo-web-template/blob/812550fd1d1b7951cac2ded8ef2e9589e1ffe6b0/.vscode/settings.json#L16)
 - [Syncs After Commit](https://github.com/ansipes/mejo-web-template/blob/812550fd1d1b7951cac2ded8ef2e9589e1ffe6b0/.vscode/settings.json#L17)
 
-### [Extensions 🔌](../../.vscode/extensions.json)
+### [Extensions](../../.vscode/extensions.json) 🔌
 
 This template includes recommended extensions that improve formatting, testing, and troubleshooting in Visual Studio Code.
 
@@ -94,7 +86,7 @@ https://user-images.githubusercontent.com/25012869/125014266-5cd3aa80-e03b-11eb-
 
 - Analyzes HTML for Problems
 
-### [Workflows 🪄](../workflows)
+### [Workflows](../workflows) 🪄
 
 This template includes a workflow that improves deployment via GitHub Pages.
 
