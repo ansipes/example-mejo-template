@@ -1,4 +1,4 @@
-[Live Demo](#) | [About Template](./ABOUT.md)
+[Live Website](#) | [How to Use](./ABOUT.md)
 
 # Project Name
 
