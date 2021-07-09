@@ -1,6 +1,9 @@
 # Web Repository Template
 
-This template provides an improved web development experience when using Visual Studio Code and GitHub. It includes [settings](../../.vscode/settings.json), [extension recommendations](../../.vscode/extensions.json), and a [GitHub workflow](../workflows/main.yml).
+This template provides an improved web development experience when using Visual Studio Code and GitHub It includes:
+- [settings](../../.vscode/settings.json)
+- [extension recommendations](../../.vscode/extensions.json)
+- [GitHub workflow](../workflows/main.yml).
 
 ## How to Use
 
