@@ -1,4 +1,4 @@
-[Website](#) | [Template](./.github/README.md)
+[Website](#) | [Template](./.github/template/README.md)
 
 # Project Name
 
