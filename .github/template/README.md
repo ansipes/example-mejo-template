@@ -92,4 +92,4 @@ This template includes a workflow that improves deployment via GitHub Pages.
 
 #### [Deploy](../workflows/main.yml)
 
-- Copies [src](../../src) to the [gh-pages](../../tree/gh-pages) branch
+- Copies [src](../../src) to the [gh-pages](../../../../tree/gh-pages) branch
