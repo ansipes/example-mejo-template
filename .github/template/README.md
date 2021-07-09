@@ -1,6 +1,6 @@
 # Web Repository Template
 
-This template provides an improved web development experience when using Visual Studio Code and GitHub.
+This template provides an improved web development experience when using [Visual Studio Code](https://code.visualstudio.com/) and [GitHub](https://github.com).
 
 ## How to Use
 
