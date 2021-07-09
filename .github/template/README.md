@@ -1,4 +1,4 @@
-# Web Repository Template
+# [Web Repository Template](https://github.com/ansipes/mejo-web-template)
 
 This template improves the developer experience when using [Visual Studio Code](https://code.visualstudio.com/) and [GitHub](https://github.com).
 
