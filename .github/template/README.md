@@ -4,7 +4,7 @@ This template provides an improved web development experience when using Visual 
 
 ## How to Use
 
-### ⚙️ Setup
+### 🛠 Setup
 
 1. Click [Use this template](https://github.com/ansipes/mejo-web-template) and create the repository from template
 2. Under `Settings` -> `Pages` pick `gh-pages` as the branch and `/ (root)` as the folder, the click save
