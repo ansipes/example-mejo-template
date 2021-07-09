@@ -79,7 +79,7 @@ https://user-images.githubusercontent.com/25012869/125014266-5cd3aa80-e03b-11eb-
 
 #### [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-- Serves the `src` folder on [http://127.0.0.1:5500](http://127.0.0.1:5500)
+- Serves the [src](../../src) folder on [http://127.0.0.1:5500](http://127.0.0.1:5500)
 - Refreshes Browser on Save
 
 #### [HTMLHint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)
@@ -92,4 +92,4 @@ This template includes a workflow that improves deployment via GitHub Pages.
 
 #### [Deploy](../workflows/main.yml)
 
-- Copies `src` to the `gh-pages` branch
+- Copies [src](../../src) to the [gh-pages](../../tree/gh-pages) branch
