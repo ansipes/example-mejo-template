@@ -69,6 +69,6 @@ https://user-images.githubusercontent.com/25012869/125014266-5cd3aa80-e03b-11eb-
 
 This template includes a workflow that improves deployment via GitHub Pages.
 
-### [Deploy](../workflows/main.yml)
+#### [Deploy](../workflows/main.yml)
 
 - Copies `src` to the `gh-pages` branch
