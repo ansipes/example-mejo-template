@@ -27,11 +27,11 @@ Replace `{{ USERNAME }}` with your GitHub username. Replace `{{ REPOSITORY }}` w
 
 ## What's Included
 
-### Settings
+### ⚙️ Settings
 
 This template includes settings that improve writing and version control in Visual Studio Code.
 
-#### ✏️ Writing
+#### Writing
 
 These settings solve common problems like unsaved work, poorly formatted code, and missing brackets.
 
@@ -39,33 +39,33 @@ These settings solve common problems like unsaved work, poorly formatted code, a
 - Format Code on Save
 - Close Brackets Automatically
 
-#### 🗃 Version Control
+#### Version Control
 
 These settings help simplify sending your code to GitHub by reducing three steps (add, commit, push) to a single step. Simply type a commit message in the Source Control view and click the checkmark.
 
 - Stage Changes Automatically
 - Push After Commit
 
-### Extensions
+### 🔌 Extensions
 
 This template includes recommended extensions that improve testing and formatting in Visual Studio Code.
 
-#### 🌐 Live Server
+#### Live Server
 
 - Serve the `src` directory on [localhost:5500](localhost:5500)
 - Refresh Browser on Save
 
-#### 🪄 Prettier
+#### Prettier
 
 - Format Code with Opinionated Rules
 
 https://user-images.githubusercontent.com/25012869/125014266-5cd3aa80-e03b-11eb-8a5c-80708376b80a.mp4
 
-#### 🔎 HTMLHint
+#### HTMLHint
 
 - Analyze HTML for Problems
 
-### Workflows
+### 🪄 Workflows
 
 This template includes a workflow that improves deployment on GitHub.
 
