@@ -1,8 +1,6 @@
 # Web Repository Template
 
-This template provides an improved web development experience when using Visual Studio Code and GitHub. It includes:
-
-- [settings]
+This template provides an improved web development experience when using Visual Studio Code and GitHub.
 
 ## How to Use
 
@@ -30,13 +28,7 @@ As long as you have enabled GitHub Pages, your project should be published at [h
 
 ## What's Included
 
-### Files and Folders 📄
-
-This template includes files and folders that help you get started with a basic web repository.
-
-#### [README.md](../../README.md)
-
-The README.md file displays automatically when someone visits your repository page on GitHub.com. It is an opporunity to summarize your project to visitors and/or give instructions on how they can run in locally on their own computer.
+### Folders 📁
 
 #### [src](../../src)
 
@@ -49,6 +41,14 @@ It is common practice to put any source code in a `src` folder. Everything you w
 - images
 - videos
 - etc.
+
+### Files 📄
+
+This template includes files and folders that help you get started with a basic web repository.
+
+#### [README.md](../../README.md)
+
+The README.md file displays automatically when someone visits your repository page on GitHub.com. It is an opporunity to summarize your project to visitors and/or give instructions on how they can run in locally on their own computer.
 
 #### [index.html](../../src/index.html)
 
