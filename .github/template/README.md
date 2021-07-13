@@ -1,4 +1,4 @@
-[Home](../../../../) | [Use This Template](https://github.com/ansipes/web-template/generate)
+[Home](../../../../) | [Use this template](https://github.com/ansipes/web-template/generate)
 
 # [Web Repository Template](https://github.com/ansipes/mejo-web-template)
 
