@@ -1,4 +1,4 @@
-[How To Use This Template](./.github/template/README.md)
+[How to use this template](./.github/template/README.md)
 
 # Project Name
 
