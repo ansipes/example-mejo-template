@@ -32,32 +32,6 @@ As long as you have enabled GitHub Pages, your project should be published at [h
 
 ## What's Included
 
-### Folders 📁
-
-#### [src](../../src) 💎
-
-It is common practice to put any source code in a `src` folder. Everything you add to your project that isn't a configuration file should go in the `src` folder.
-
-#### [.vscode](../../.vscode) 👩‍💻
-
-This folder stores [settings](../../.vscode/settings.json) and [extension recommendations](../../.vscode/extensions.json) for Visual Studio Code. This template hides the `.vscode` folder in the explorer to prevent accidental modification or deletion. You can unhide it in Visual Studio Code with the `Files: Exclude` setting.
-
-#### [.github](../../.github) 🐙
-
-This folder stores GitHub [workflows](../../.github/workflows) and this [README.md](./). This template hides the `.github` folder in the explorer to prevent accidental modification or deletion. You can unhide it in Visual Studio Code with the `Files: Exclude` setting.
-
-### Files 📄
-
-This template includes files and folders that help you get started with a basic web repository.
-
-#### [README.md](../../README.md) 👀
-
-The README.md file displays automatically when someone visits your repository page on GitHub.com. It is an opporunity to summarize your project to visitors and/or give instructions on how they can run in locally on their own computer.
-
-#### [index.html](../../src/index.html) 🏠
-
-Every static website will need at least one HTML file to function. Given this, an `index.html` file is included in the root of your `src` folder. This also ensures that your `Go Live` button for [Live Server](#Live-Server) works the first time you open your project.
-
 ### [Settings](../../.vscode/extensions.json) ⚙️
 
 This template includes settings that improve writing and version control in Visual Studio Code.
@@ -105,3 +79,29 @@ This template includes a workflow that improves deployment via GitHub Pages.
 #### [Continuous Delivery](../workflows/cd.yml) 🚚
 
 - Copies the [src](../../src) folder to the [gh-pages](../../../../tree/gh-pages) branch
+
+### Folders 📁
+
+#### [src](../../src) 💎
+
+It is common practice to put any source code in a `src` folder. Everything you add to your project that isn't a configuration file should go in the `src` folder.
+
+#### [.vscode](../../.vscode) 👩‍💻
+
+This folder stores [settings](../../.vscode/settings.json) and [extension recommendations](../../.vscode/extensions.json) for Visual Studio Code. This template hides the `.vscode` folder in the explorer to prevent accidental modification or deletion. You can unhide it in Visual Studio Code with the `Files: Exclude` setting.
+
+#### [.github](../../.github) 🐙
+
+This folder stores GitHub [workflows](../../.github/workflows) and this [README.md](./). This template hides the `.github` folder in the explorer to prevent accidental modification or deletion. You can unhide it in Visual Studio Code with the `Files: Exclude` setting.
+
+### Files 📄
+
+This template includes files and folders that help you get started with a basic web repository.
+
+#### [README.md](../../README.md) 👀
+
+The README.md file displays automatically when someone visits your repository page on GitHub.com. It is an opporunity to summarize your project to visitors and/or give instructions on how they can run in locally on their own computer.
+
+#### [index.html](../../src/index.html) 🏠
+
+Every static website will need at least one HTML file to function. Given this, an `index.html` file is included in the root of your `src` folder. This also ensures that your `Go Live` button for [Live Server](#Live-Server) works the first time you open your project.
