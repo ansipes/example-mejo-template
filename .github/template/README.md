@@ -21,7 +21,7 @@ This template improves the developer experience when using [Visual Studio Code](
 
 Click the "Go Live" button in the bottom right of Visual Studio Code. This will open [http://127.0.0.1:5500/](http://127.0.0.1:5500/) in your browser.
 
-Everything in your `src` folder will be served just like it is on a real web server.
+Everything in your `src` folder will be served just like it is on a real web server. Anytime you save your work, the browser will automatically refresh.
 
 ### Publish 🚀
 
